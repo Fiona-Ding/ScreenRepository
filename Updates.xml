@@ -6,13 +6,13 @@
   <Name>com.abc.www</Name>
   <DisplayName>Screen</DisplayName>
   <Description>Install Component.</Description>
-  <Version>1.0.0.160</Version>
+  <Version>1.0.0.161</Version>
   <ReleaseDate>2013-01-01</ReleaseDate>
   <Default>true</Default>
   <Script>installscript.qs</Script>
-  <UpdateFile UncompressedSize="50415770" CompressedSize="14359121" OS="Any"/>
+  <UpdateFile OS="Any" CompressedSize="14359121" UncompressedSize="50415770"/>
   <DownloadableArchives>bin.7z,script.7z</DownloadableArchives>
   <UserInterfaces>targetwidget.ui</UserInterfaces>
-  <SHA1>5f6f1acd4fd90af1c0ecb44cc2a5ca5814b197a4</SHA1>
+  <SHA1>8a27e4ea1f2ac8344b4b51fbbaa1b4758569c7b9</SHA1>
  </PackageUpdate>
 </Updates>
