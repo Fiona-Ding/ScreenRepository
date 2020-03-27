@@ -6,7 +6,7 @@
   <Name>com.abc.www</Name>
   <DisplayName>Screen</DisplayName>
   <Description>Install Component.</Description>
-  <Version>1.0.0.142</Version>
+  <Version>1.0.0.143</Version>
   <ReleaseDate>2013-01-01</ReleaseDate>
   <Default>true</Default>
   <Script>installscript.qs</Script>
